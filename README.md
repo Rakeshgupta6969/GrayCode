@@ -1,1 +1,2 @@
 # GrayCode
+# simple solution
